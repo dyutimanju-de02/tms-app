@@ -1,0 +1,16 @@
+com\task\tms\controller\UserController.class
+com\task\tms\dto\TaskResponse.class
+com\task\tms\dto\TaskStatusUpdateRequest.class
+com\task\tms\dto\UserResponse.class
+com\task\tms\dto\LoginResponse.class
+com\task\tms\TmsAppApplication.class
+com\task\tms\controller\TaskController.class
+com\task\tms\exception\GlobalExceptionHandler.class
+com\task\tms\dto\UserRegisterRequest.class
+com\task\tms\repository\UserRepository.class
+com\task\tms\dto\LoginRequest.class
+com\task\tms\config\SecurityConfig.class
+com\task\tms\dto\TaskRequest.class
+com\task\tms\repository\TaskRepository.class
+com\task\tms\model\User.class
+com\task\tms\model\Task.class
